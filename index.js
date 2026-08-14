@@ -4,7 +4,7 @@ let bot;
 
 function createBot() {
   bot = mineflayer.createBot({
-    host: 'your-server-ip',
+    host: 'orca-jellyfish-84.orc.host',
     port: 25565, // ✅ Replace with actual port number
     username: 'aurora_assistant',
     version: '1.21.4'
